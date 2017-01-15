@@ -1,0 +1,59 @@
+# Settings (local)
+/rtbmedia/local_settings.py
+/rtbmedia/local_settings_*.py
+/rtbmedia/static_version.txt
+
+# Data directories
+/media/*
+/raw_csv_report_data/
+
+# Virutalenv, installed Python and Node modules and directories
+/local
+/lib
+/bin
+/include
+/share
+/node_modules
+/public
+/restkit
+/socketpool
+/ghostdriver.log
+/selenium
+/pip-selfcheck.json
+
+# Developer file
+/MediaSmith_ETL.csv
+
+# Developer tools
+.svn
+.idea
+
+# GitHub template: Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# GitHub template: Precompiled Headers
+*.gch
+*.pch
+
+# GitHub template: Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# GitHub template: Compiled Python files
+*.pyc
+*.pyo
+
+# GitHub template: Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# GitHub template: Executables
+*.exe
+*.out
+*.app
